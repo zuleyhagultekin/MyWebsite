@@ -1,2 +1,2 @@
 
-![My Website]([resim-dosyası-yolu veya URL](https://github.com/zuleyhagultekin/MyWebsite/blob/master/fotolar/site.png))
+![My Website]([(https://github.com/zuleyhagultekin/MyWebsite/blob/master/fotolar/site.png]))
