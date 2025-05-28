@@ -1,3 +1,3 @@
-Websiteme buradan ulaşabilirsiniz -> http://127.0.0.1:3000/index.html
+Websiteme buradan ulaşabilirsiniz -> https://zuleyha.free.nf/
 
 ![My Website](https://github.com/zuleyhagultekin/MyWebsite/blob/master/fotolar/site.png)
